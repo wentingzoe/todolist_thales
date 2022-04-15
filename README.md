@@ -1,8 +1,10 @@
-# Getting Started with Install React App
+# Getting Started with todolist_thales
 
-### `npm install`
 
 ## Available Scripts
+Please download the code and install it in your project.
+
+### `npm install`
 
 In the project directory, you can run:
 
